@@ -2,7 +2,7 @@ Here's a more concise README:
 
 ---
 
-# Coassive Frontend Task
+# Cooasis Frontend Task
 
 This repository contains a frontend task assignment for Coassive, built using **ReactJS** and **Tailwind CSS**.
 
